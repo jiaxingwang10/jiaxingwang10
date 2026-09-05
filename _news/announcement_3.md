@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper ["TANDEM: Bi-Level Data Mixture Optimization with Twin Networks"](https://openreview.net/forum?id=szBFUtBzWP) is is accepted by NeurIPS 2025.
+Our paper ["TANDEM: Bi-Level Data Mixture Optimization with Twin Networks"](https://openreview.net/forum?id=szBFUtBzWP) is accepted by NeurIPS 2025.
